@@ -1,6 +1,8 @@
 <template>
 	<div class="course">
-		课程
+		 <div class="c1181">
+			course
+		</div>
 	</div>
 </template>
 

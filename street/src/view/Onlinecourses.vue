@@ -1,7 +1,7 @@
 <template>
-	<div class="Onlinecourses">
-		在线课程
-	</div>
+  <div class="Onlinecourses">
+    <div class="c1181">Onlinecourses</div>
+  </div>
 </template>
 
 <script>

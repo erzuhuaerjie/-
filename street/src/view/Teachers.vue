@@ -1,7 +1,7 @@
 <template>
-	<div class="Teachers">
-		优质师资
-	</div>
+  <div class="Teachers">
+    <div class="c1181">Teachers</div>
+  </div>
 </template>
 
 <script>
