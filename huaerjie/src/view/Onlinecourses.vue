@@ -1,17 +1,19 @@
 <template>
-	<div class="Onlinecourses">
-		<div class="top">
+  <div class="Onlinecourses">
+   	<div class="top">
 			<div class="btn_now">立即免费体验</div>
 		</div>
-	</div>
+    <div class="scroll">
+
+    </div>
+  </div>
 </template>
 
 <script>
-
 </script>
 
-<style scoped>
-	.top{
+<style scoped lang='scss'>
+.top{
 		width:100%;
 		height: 500px;
 		background: url(https://wse.com.cn/_ui/responsive/theme-alpha/img/primecourse/prime-banner.jpg) top center no-repeat ;
