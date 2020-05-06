@@ -1,6 +1,8 @@
 <template>
-	<div class="Onlinecourses">
-		在线课程
+	<div class="course">
+		 <div class="c1181">
+			course
+		</div>
 	</div>
 </template>
 

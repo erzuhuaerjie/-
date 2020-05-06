@@ -1,6 +1,8 @@
 <template>
-	<div class="Teachers">
-		优质师资
+	<div class="index">
+		 <div class="c1181">
+			index
+		</div>
 	</div>
 </template>
 
