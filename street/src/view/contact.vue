@@ -1,7 +1,7 @@
 <template>
-	<div class="contact">
-		联系我们
-	</div>
+  <div class="contact">
+    <div class="c1181">contact</div>
+  </div>
 </template>
 
 <script>

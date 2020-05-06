@@ -12,9 +12,13 @@ import VueFullpage from 'vue-fullpage.js'
 import animate from 'animate.css'
 import iView from 'iview'
 import 'iview/dist/styles/iview.css'
+import vueSwiper from 'vue-awesome-swiper'
+import 'swiper/dist/css/swiper.css'
+    
+Vue.use(vueSwiper)
 
- 
-
+ // 引入公用样式
+import '@/assets/reset.css'
 
 Vue.use(iView)
 Vue.prototype.$echarts = echarts

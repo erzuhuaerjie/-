@@ -1,7 +1,7 @@
 <template>
-	<div class="News">
-		最新消息
-	</div>
+  <div class="News">
+    <div class="c1181">News</div>
+  </div>
 </template>
 
 <script>
