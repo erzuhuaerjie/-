@@ -13,8 +13,8 @@ import animate from 'animate.css'
 import iView from 'iview'
 import 'iview/dist/styles/iview.css'
 
- 
-
+ // 引入公用样式
+import '@/assets/reset.css'
 
 Vue.use(iView)
 Vue.prototype.$echarts = echarts
